@@ -1,0 +1,25 @@
+{
+  "name": "dahcoin",
+  "version": "1.0.0",
+  "description": "dahcoin transaction ledger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "blockchain",
+    "transaction",
+    "nodejs",
+    "typescript",
+    "javascript"
+  ],
+  "author": "adson59",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "typescript": "^5.2.2"
+  }
+}
