@@ -1,5 +1,5 @@
 ## DOUBLE CHAIN
-This is a basic blockchain system that will uses will use multiple consensus algorithms
+This is a basic blockchain system that will use multiple consensus algorithms
 
 ## USE
 All you need is node.js installed on your system
